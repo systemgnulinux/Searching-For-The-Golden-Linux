@@ -142,57 +142,53 @@ Applications
      Basic System Clients.
 
 System Client Guides (folders on desktop)
-
-|
-
-|
-
 Relevant Client Cheatsheets – Man Page How To examples and clear breakdown of what each part does.
 
-– Htop, Vim, Nano etc
+     Htop, Vim, Nano etc
 
-– https://cheatography.com/ (CC License)
+     https://cheatography.com/ (CC License)
 
-– http://www.cheat-sheets.org
+     http://www.cheat-sheets.org
 
-– https://www.cheatsheet.wtf/
+     https://www.cheatsheet.wtf/
 
-– https://devhints.io/ or https://github.com/rstacruz/cheatsheets (MIT License)
+     https://devhints.io/ or https://github.com/rstacruz/cheatsheets (MIT License)
 
-– https://packetlife.net/library/cheat-sheets/
+     https://packetlife.net/library/cheat-sheets/
 
-– https://gnulinux.guru/
+     https://gnulinux.guru/
 
-– https://gto76.github.io/linux-cheatsheet/
+     https://gto76.github.io/linux-cheatsheet/
+  
+  
+     PDF Folder (includes) – if licence permits 
+     
+     Command Line pages for Bash, Shell, Python3, cURL, Wget, Apt
 
-PDF Folder (includes) – if licence permits
+     Linux command line man pages. 
 
-– Command Line pages for Bash, Shell, Python3, cURL, Wget, Apt
+     Man7.org pdf
 
-– Linux command line man pages. 
+     https://wiki.debian.org/Hardening
 
-– Man7.org pdf
+     https://www.kernel.org/doc/man-pages&nbsp;
 
-– https://wiki.debian.org/Hardening
+     https://live-team.pages.debian.net/live-manual/html/live-manual/index.en.html–
+     Securing Debian Manual by Javier Fernández-Sanguino
 
-– https://www.kernel.org/doc/man-pages&nbsp;
+     The Debian Administrator’s Handbook Debian Buster from Discovery to Mastery by Raphaël Hertzog and Roland Mas 
 
-– https://live-team.pages.debian.net/live-manual/html/live-manual/index.en.html–
-– Securing Debian Manual by Javier Fernández-Sanguino
+     Linux Guide 10th edition by Daniele Raffo
 
-– The Debian Administrator’s Handbook Debian Buster from Discovery to Mastery by Raphaël Hertzog and Roland Mas 
+     The Linux Command Line Fifth Internet Edition by William Shotts 
 
-– Linux Guide 10th edition by Daniele Raffo
+     Securing and Optimising Linux: The Ultimate Solution by Gerhard Mourani
 
-– The Linux Command Line Fifth Internet Edition by William Shotts 
+     Debian Reference by Osamu Aoki
 
-– Securing and Optimising Linux: The Ultimate Solution by Gerhard Mourani
+     Dive Into Python 3 by Mark Pilgrim
 
-– Debian Reference by Osamu Aoki
-
-– Dive Into Python 3 by Mark Pilgrim
-
-– Other guides Topics –  Web and HostServers, virtual tunnel, firewall, DNS, GParted, VirtualBox
+     Other guides Topics –  Web and HostServers, virtual tunnel, firewall, DNS, GParted, VirtualBox
 
 
 Links to Install old MacOS, Microsoft, BSD iso for virtualbox for app Devs
