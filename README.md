@@ -43,19 +43,19 @@ UEFI Secureboot – Install Bootloader
 
 Full Disk Encryption – 3 layers of privaledged access
 
-– Graphical Installer Interface prompt generates a key of the encrypt bootloader/kernel/ as SuSu, one time chance write down long password for rare low level configuration access.
+    Graphical Installer Interface prompt generates a key of the encrypt bootloader/kernel/ as SuSu, one time chance         write down long password for rare low level configuration access.
 
-– Su password for Swap Partition
+    Su password for Swap Partition
 
-– Sudo for standard user OS and app commands
+    Sudo for standard user OS and app commands
 
-– Encryption Finishes – Reboots
+    Encryption Finishes – Reboots
 
 BIOS
 
-– Libreboot
+    Libreboot
 
-– Grub hardened
+    Grub hardened
 
 Kernel
 
@@ -63,45 +63,28 @@ Kernel
 
 Init system- Open RC or Runit
 
-|
-
-|
-
 Package Manager – DEB
 
-|
-
-|
-
 Desktop Interface – Openbox, AwesomeWM or JMW
-
-|
-
-|
-
 Openbox Interface – Two choices, dark mode and light mode, with 4 daylight and 4 darkmode wallpapers
-
-|
-
-|
-
 Use Unixporn Winners Interface Design  – Redesigned with clearer navigation, logo and tiling colour distinction.
 
-– https://www.reddit.com/r/unixporn/comments/q941ym/awesomewm_life_problems/&nbsp; by woowak01
+     https://www.reddit.com/r/unixporn/comments/q941ym/awesomewm_life_problems/&nbsp; by woowak01
 
-– https://www.reddit.com/r/unixporn/comments/kzd6zt/qtile_genome/ by Barbarossa93
+     https://www.reddit.com/r/unixporn/comments/kzd6zt/qtile_genome/ by Barbarossa93
+     
+     https://www.reddit.com/r/unixporn/comments/4rgcdq/openbox_i_herd_you_like_rice/ by bluedave08
 
-– https://www.reddit.com/r/unixporn/comments/4rgcdq/openbox_i_herd_you_like_rice/ by bluedave08
+     https://www.reddit.com/r/unixporn/comments/8v9r19/oc_ive_just_created_a_program_for_drawing_process/ 
+     by mildlyparallel 
 
-– https://www.reddit.com/r/unixporn/comments/8v9r19/oc_ive_just_created_a_program_for_drawing_process/ by mildlyparallel 
+     https://www.reddit.com/r/unixporn/comments/9ysbx7/oc_a_little_project_that_ive_been_working_on/ by Squared_fr
 
-– https://www.reddit.com/r/unixporn/comments/9ysbx7/oc_a_little_project_that_ive_been_working_on/ by Squared_fr
+     https://old.reddit.com/r/unixporn/comments/t6qj44/kde_plasma_updated_edna_light_screenshot/ by jom4d4
 
-– https://old.reddit.com/r/unixporn/comments/t6qj44/kde_plasma_updated_edna_light_screenshot/ by jom4d4
-
-– https://old.reddit.com/r/unixporn/comments/thhei4/openbox_tsukuyo_and_gintoki/ by Admirable-Set3385
-
-– https://www.reddit.com/r/unixporn/comments/j3mfc6/i3gaps_ready_for_fall/ by [deleted]
+     https://old.reddit.com/r/unixporn/comments/thhei4/openbox_tsukuyo_and_gintoki/ by Admirable-Set3385
+     
+     https://www.reddit.com/r/unixporn/comments/j3mfc6/i3gaps_ready_for_fall/ by [deleted]
 
 Keep OS Minimal by default and remove unnecessary applications
 
@@ -218,21 +201,21 @@ Links to Install old MacOS, Microsoft, BSD iso for virtualbox for app Devs
 
 Include Beta Testing Software
 
-– nymtech.net
+     nymtech.net
 
-– cwtch.im
+     cwtch.im
 
-– Mobian-project.org
+     Mobian-project.org
 
 Design Ideas
 
-– Ask accomplished musician to do sound chimes for Start Up, Shut Down, Notification, Trash, Restart etc
+     Ask accomplished musician to do sound chimes for Start Up, Shut Down, Notification, Trash, Restart etc
 
-– Real Graphic Designers to work on a exclusive lightweight Openbox Interface
+     Real Graphic Designers to work on a exclusive lightweight Openbox Interface
 
-– Find well know Illustrators, photographers and designers to contribute work of high standard for wallpaper under a restrictive variant of GPL licence
+     Find well know Illustrators, photographers and designers to contribute work of high standard for wallpaper under a      restrictive variant of GPL licence
 
-– FHE entire Operating system
+     FHE entire Operating system
 
 
 
