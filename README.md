@@ -236,6 +236,10 @@ Design Ideas
 
 – FHE entire Operating system
 
+
+
+
+
 Note – Two articles on specialized operating system, unlike anything out the right now, will be publish later
 
 
