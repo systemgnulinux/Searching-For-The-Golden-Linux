@@ -3,41 +3,41 @@
 
 Debian Linux OS – Lightweight distro fork.
 
-  Free of all Systemd dependancy
+    Free of all Systemd dependancy
 
-  Free of all propriety software
+    Free of all propriety software
 
-  Free of all system and application analytics
+    Free of all system and application analytics
 
-  Free of old unused network, radio protocols
+    Free of old unused network, radio protocols
 
-  Free from all unnecessary init logs
+    Free from all unnecessary init logs
 
-  Free of Facebook, Apple, Microsoft
+    Free of Facebook, Apple, Microsoft
 
-  Free of empty folders, duplicates and orphan packages
+    Free of empty folders, duplicates and orphan packages
 
-  https://www.debian.org/devel/wnpp/orphaned&nbsp;
+    https://www.debian.org/devel/wnpp/orphaned&nbsp;
+ 
+    https://github.com/cypheroxide/updt-manager
 
-  https://github.com/cypheroxide/updt-manager
+    https://www.cyberciti.biz/tips/debian-linux-remove-unwanted-packages-and-files-to-reclaim-disk-space.html
 
-  https://www.cyberciti.biz/tips/debian-linux-remove-unwanted-packages-and-files-to-reclaim-disk-space.html
+    GNU/Linux, FOSS
 
-  GNU/Linux, FOSS
+    Host Blacklist Blocker
 
-  Host Blacklist Blocker
+    Block List of malicious applications
 
-  Block List of malicious applications
+    Graphical Install for iso or ova, install options include source code compile, iso, net iso and live iso.
 
-  Graphical Install for iso or ova, install options include source code compile, iso, net iso and live iso.
+    Netfilter hardened by default
 
-  Netfilter hardened by default
+    Verification at boot
 
-  Verification at boot
+    rEFInd bootloader package
 
-  rEFInd bootloader package
-
-  Sha256sum, Sha512sum checksums, gpg, asc, ios file verification, creation date and size number
+    Sha256sum, Sha512sum checksums, gpg, asc, ios file verification, creation date and size number
 
 UEFI Secureboot – Install Bootloader
 
