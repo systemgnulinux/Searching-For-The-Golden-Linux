@@ -1,4 +1,4 @@
-# Searching-For-The-Golden-Linux (first published at surfingstarbeams@worpress.com on 4 April 2022)
+# Searching For The Golden Linux (first published at surfingstarbeams@worpress.com on 4 April 2022)
 
 Debian Linux OS – Lightweight distro fork.
 
