@@ -194,29 +194,31 @@ PDF Folder (includes) – if licence permits
 
 – Other guides Topics –  Web and HostServers, virtual tunnel, firewall, DNS, GParted, VirtualBox
 
+
 Links to Install old MacOS, Microsoft, BSD iso for virtualbox for app Devs
 
-– https://github.com/corpnewt/gibMacOS
+     https://github.com/corpnewt/gibMacOS
 
-– https://macosarchive.org/
+     https://macosarchive.org/
 
-or
+     or
 
-– https://www.microsoft.com/en-us/software-download/windows10ISO
+     https://www.microsoft.com/en-us/software-download/windows10ISO
 
-– https://www.microsoft.com/en-us/software-download/windows8ISO
+     https://www.microsoft.com/en-us/software-download/windows8ISO
 
-– https://docs.microsoft.com/en-us/lifecycle/products/windows-7
+     https://docs.microsoft.com/en-us/lifecycle/products/windows-7
 
-– https://www.microsoft.com/en-us/download/details.aspx?id=13158
+     https://www.microsoft.com/en-us/download/details.aspx?id=13158
 
-or
+     or
 
-– openbsd.org
+     openbsd.org
 
-– freebsd.org
+     freebsd.org
 
-– hardenedbsd.org
+     hardenedbsd.org
+
 
 Include Beta Testing Software
 
