@@ -43,7 +43,8 @@ UEFI Secureboot – Install Bootloader
 
 Full Disk Encryption – 3 layers of privaledged access
 
-    Graphical Installer Interface prompt generates a key of the encrypt bootloader/kernel/ as SuSu, one time chance         write down long password for rare low level configuration access.
+    Graphical Installer Interface prompt generates a key of the encrypt bootloader/kernel/ 
+    as SuSu, one time chance to write down long password for rare low level configuration access.
 
     Su password for Swap Partition
 
