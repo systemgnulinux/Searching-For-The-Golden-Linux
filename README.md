@@ -109,37 +109,37 @@ Keep OS Minimal by default and remove unnecessary applications
 
 Applications 
 
-– Browser (hardened by default) 
+     Browser (hardened by default) 
 
-– Photo Editor
+     Photo Editor
 
-– Calculator
+     Calculator
 
-– Text Notepad
+     Text Notepad
 
-– Bleachbit
+     Bleachbit
 
-– GnuPG
+     GnuPG
 
-– GParted 
+     GParted 
 
-– VirtualBox
+     VirtualBox
 
-– APParmor
+     APParmor
 
-– SELinux
+     SELinux
 
-– ClamAV
+     ClamAV
 
-– Term
+     Term
 
-– Testdisk/Photorec
+     Testdisk/Photorec
 
-– Password Manager
+     Password Manager
 
-– Deb mobile install package
+     Deb mobile install package
 
-– Basic System Clients.
+     Basic System Clients.
 
 System Client Guides (folders on desktop)
 
