@@ -1,6 +1,8 @@
 # Searching For The Golden Linux 
 (first published at surfingstarbeams@worpress.com on 4 April 2022)
 
+![alt text](https://github.com/systemgnulinux/Searching-For-The-Golden-Linux/blob/main/noaa-Noz3PW1W0X4-unsplash%20(1).jpg?raw=true)
+
 Debian Linux OS – Lightweight distro fork.
 
     Free of all Systemd dependancy
